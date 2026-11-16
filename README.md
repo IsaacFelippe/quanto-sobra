@@ -54,4 +54,4 @@ Decisões de produto, erros tratados, engenharia e custo, riscos e próximos pas
 
 ---
 
-Feito por Isaac Melo · [LinkedIn](LINK_DO_LINKEDIN)
+Feito por Isaac Melo · [LinkedIn](https://www.linkedin.com/in/isaac-melo-81b7211bb/)
