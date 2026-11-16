@@ -6,7 +6,7 @@ Conceito de feature para restaurantes pequenos parceiros do iFood: o dono manda 
 
 > Projeto independente de portfólio. Não é afiliado ao iFood. Todos os dados são fictícios.
 
-[Protótipo navegável](LINK_DO_PROTOTIPO) · [Vídeo de 2 minutos](https://youtu.be/S490nYsu4s0) · [Detalhes do projeto](docs/detalhes.md)
+[Protótipo navegável](https://claude.ai/artifact/82RWWGiC6oLCt7ypgLZSPk#page-45e5d4467e2d) · [Vídeo de 2 minutos](https://youtu.be/S490nYsu4s0) · [Detalhes do projeto](docs/detalhes.md)
 
 [![Tela do Quanto Sobra: custo real de cada prato](assets/capa_quanto_sobra.png)](https://youtu.be/S490nYsu4s0)
 ---
