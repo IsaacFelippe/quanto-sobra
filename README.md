@@ -8,8 +8,7 @@ Conceito de feature para restaurantes pequenos parceiros do iFood: o dono manda 
 
 [Protótipo navegável](LINK_DO_PROTOTIPO) · [Vídeo de 2 minutos](https://youtu.be/S490nYsu4s0) · [Detalhes do projeto](docs/detalhes.md)
 
-[![Tela do Quanto Sobra: custo real de cada prato](assets/capa.png)](https://youtu.be/S490nYsu4s0)
-
+[![Tela do Quanto Sobra: custo real de cada prato](assets/capa_quanto_sobra.png)](https://youtu.be/S490nYsu4s0)
 ---
 
 ## O problema
